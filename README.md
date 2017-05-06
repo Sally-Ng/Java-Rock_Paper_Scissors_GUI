@@ -13,9 +13,7 @@ Write a class that represents the game.
 #### Part II- The GUI
 Write the GUI program to interact with the user.
 
-### Bonus 1:
-Ask the player if he or she wants to play with a bet.
-
-### Bonus 2:
-Write a text-based driver program that allows the user to play through the console.
+### Bonus:
+- Ask the player if he or she wants to play with a bet.
+- Write a text-based driver program that allows the user to play through the console.
 

@@ -1,6 +1,7 @@
 ## Rock Paper Scissors GUI
 Language: Java </br>
-Clicks the "Rock", "Paper" or "Scissors" button to play with the computer.
+Wrote a class to represent the rock, paper, scissors game,
+and a GUI Program to allow players to use the "Rock", "Paper" or "Scissors" button to play the game.
 
 </br>
 <p align="left">
